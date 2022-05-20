@@ -1,1 +1,1 @@
-# UnderGround_Fault_Detection-uing-DHT11
+# UnderGround_Fault_Detection-using-DHT11
